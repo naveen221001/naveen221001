@@ -8,7 +8,7 @@
 
 - 🌱 I’m a passionate in this programming world.
 
-- 👯 I’m love to contribute in **OpenSource Projects**
+- 👯 I love to contribute in **OpenSource Projects**
 
 - ⚡ Fun fact **I can manage both mine and public finances on my own**
 
